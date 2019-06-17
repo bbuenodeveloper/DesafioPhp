@@ -1,0 +1,21 @@
+.dividi{
+    width: 100%;
+    display: flex;
+    
+}
+
+.dividir{
+    width: 50%;
+}
+.divi{
+    width: 49%;
+}
+.altura{
+    width: 49%;
+}
+.dois{
+    display: flex;
+}
+p{
+    margin: 0;
+}
